@@ -1267,6 +1267,10 @@ understanding of the implementation. Grammarly was used for minor
 grammar and clarity improvements. I am fully responsible for all results
 and interpretations.
 
+**Mahshid Farokhnejad (Shida)**
+
+**MBAN - Winter 2026**
+
 ------------------------------------------------------------------------
 
 # Submission Checklist
